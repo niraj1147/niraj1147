@@ -1,6 +1,6 @@
 ![logo](https://github.com/niraj1147/niraj1147/blob/main/githubBanner.gif)
 
-<h1 align="center"> Hi ,I'm Niraj Singhal </h1> 
+<h1 align="center"> Hi ,I'm Niraj Kumar </h1> 
 
 
 <h3 align="center">A passionate frontend developer from India</h3>

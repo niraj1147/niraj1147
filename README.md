@@ -15,7 +15,7 @@
   
 <a href="https://www.linkedin.com/in/neeraj-singhal-5b151a204?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
   
-<a href="https://www.linkedin.com/in/neeraj-singhal-5b151a204?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/nirajkumarsinghal" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/nirajkumarsinghal"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"  height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

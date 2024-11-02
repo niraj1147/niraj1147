@@ -1,6 +1,6 @@
 ![logo](https://github.com/niraj1147/niraj1147/blob/main/githubBanner.gif)
 
-<h1 align="center"> Hi ,I'm Niraj Kumar </h1> 
+<h1 align="center"> Hi ,I'm Niraj Hameniraz </h1> 
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://www.linkedin.com/in/neeraj-singhal-5b151a204?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/niraj-hameniraz-5b151a204?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
   
 <a href="https://www.kaggle.com/nirajkumarsinghal"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"  height="30" width="40" /></a>
 </p>
